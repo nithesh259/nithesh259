@@ -16,9 +16,7 @@
 ## 💻 Tech Stack
 
 ### 🔥 Core Strength
-![C](https://img.shields.io/badge/C-blue)  ![C++](https://img.shields.io/badge/C++-blue)  ![Arduino](https://img.shields.io/badge/Arduino-teal)
-
----
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
 
 ---
