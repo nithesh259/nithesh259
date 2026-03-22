@@ -28,28 +28,12 @@
 ---
 
 ### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-orange)
-
-![GitHub](https://img.shields.io/badge/GitHub-black)
-
-![VS Code](https://img.shields.io/badge/VSCode-blue)
+![Git](https://img.shields.io/badge/Git-orange)  ![GitHub](https://img.shields.io/badge/GitHub-black)  ![VS Code](https://img.shields.io/badge/VSCode-blue)
 
 ---
 
-## 📂 Projects
 
-### 🔌 Embedded Systems Projects
-- Developed applications using Arduino & Embedded C  
-- Worked with sensors and real-time data  
-- Implemented hardware-software interfacing  
 
----
-
-## 📊 GitHub Stats
-
-![Nithesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithesh259&show_icons=true)
-
----
 
 ## 🔥 What Makes Me Different
 
